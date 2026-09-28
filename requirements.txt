@@ -1,0 +1,3 @@
+# Sugerido automaticamente a partir dos imports. Fixar versões com pip freeze.
+pandas
+selenium

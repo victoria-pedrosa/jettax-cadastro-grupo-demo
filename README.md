@@ -1,6 +1,6 @@
-# Jettax Cadastro Grupo
+# Demonstração — Cadastro de empresas em grupos no Jettax
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de cadastro de empresas em grupos no Jettax — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Cadastrar empresas em grupos no Jettax era repetitivo.
